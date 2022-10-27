@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BernikovaLera
-- Practical work and term papes:
+Practical work and term papers:
 
 Creating C++ Programs
 - solution of trigonometric problems
@@ -8,29 +8,31 @@ Creating C++ Programs
 Creating programs in C#
 - Autonomous authorization system
 - Math calculator
-
-Creating Python Programs
-- Math calculator
+- Calculator of stereometric figures
+- Solving problems of mathematical logic (modified Euler method, simplex method, numerical arrays, )
+- Opening Word and Excel through the program
+- Encryption program
+- Text spell checker
+- Program for saving files with different encodings
+- Parsing websites
 
 Creating an HTML5 site
 - Product promo site with CSS elements
-
-Creation and management of a database on MS SQL
+- Website blog with user registration in the system
 
 Creating pages in PHP
 - Solve math problems with PHP
+- Encryption of information
 
 Building software with Windows Forms
 - Layered data access model
+- Creation of a graphic application
+
+Creation and management of a database on MS SQL
 
 Working with XAML and SSML markup languages
-- coursework on creating an application with ASR / TTS functions
+- Coursework on creating an application with ASR / TTS functions
 
-Working with WorldSkills Russia assignments
-- "Software solutions for business"
-
-Having a Stepik certificate
-- Secure contract: blockchain - programming and smart contracts
  
 <!---
 BernikovaLera/BernikovaLera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
