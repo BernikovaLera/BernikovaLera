@@ -20,15 +20,9 @@ Creating an HTML5 site
 - Product promo site with CSS elements
 - Website blog with user registration in the system
 
-Creating pages in PHP
-- Solve math problems with PHP
-- Encryption of information
-
 Building software with Windows Forms
 - Layered data access model
 - Creation of a graphic application
-
-Creation and management of a database on MS SQL
 
 Working with XAML and SSML markup languages
 - Coursework on creating an application with ASR / TTS functions
