@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @BernikovaLera
 Practical work and term papers:
 
-Creating C++ Programs
-- solution of trigonometric problems
-- matrix calculator
 
 Creating programs in C#
 - Autonomous authorization system
@@ -15,10 +12,6 @@ Creating programs in C#
 - Text spell checker
 - Program for saving files with different encodings
 - Parsing websites
-
-Creating an HTML5 site
-- Product promo site with CSS elements
-- Website blog with user registration in the system
 
 Building software with Windows Forms
 - Layered data access model
