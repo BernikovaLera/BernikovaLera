@@ -1,6 +1,5 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Lera!
 
-![](https://komarev.com/ghpvc/?username=BernikovaLera&color=brightgreen&style=for-the-badge)
 [![Github](https://img.shields.io/github/followers/BernikovaLera?label=Followers&color=brightgreen&style=for-the-badge)](https://github.com/BernikovaLera)
 
 
