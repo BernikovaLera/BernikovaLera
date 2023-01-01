@@ -1,6 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Lera!
 
 [![Github](https://img.shields.io/github/followers/BernikovaLera?label=Followers&color=brightgreen&style=for-the-badge)](https://github.com/BernikovaLera)
+![](https://komarev.com/ghpvc/?username=BernikovaLera&color=brightgreen&style=for-the-badge)
 
 
 ## 🎓 I graduated from the College of Computer Science and Programming of the Financial University under the Government of the Russian Federation
@@ -27,7 +28,7 @@ I am currently continuing my studies at the Financial University at the Faculty 
 
 <br />
 
-<!-- ## :trophy: My Github Stats: 
+## :trophy: My Github Stats: 
 
 <div>
  <a href="https://github-readme-stats.vercel.app/api?username=BernikovaLera&theme=chartreuse-dark&show_icons=true">
@@ -37,4 +38,4 @@ I am currently continuing my studies at the Financial University at the Faculty 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BernikovaLera&theme=chartreuse-dark&show_icons=true">
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernikovaLera&theme=chartreuse-dark&show_icons=true" />
 </a>
-</div> -->
+</div>
