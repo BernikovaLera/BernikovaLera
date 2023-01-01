@@ -34,4 +34,6 @@ I am currently continuing my studies at the Financial University at the Faculty 
 
 ## :trophy: My Github Stats: 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernikovaLera&theme=chartreuse-dark&show_icons=true)](https://github.com/BernikovaLera/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernikovaLera&&theme=chartreuse-dark&show_icons=true)](https://github.com/BernikovaLera/github-readme-stats)
