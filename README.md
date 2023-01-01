@@ -32,7 +32,7 @@ I am currently continuing my studies at the Financial University at the Faculty 
 
 <br />
 
-<!-- ## :trophy: My Github Stats: 
+## :trophy: My Github Stats: 
 
 <div>
  <a href="https://github-readme-stats.vercel.app/api?username=BernikovaLera&theme=chartreuse-dark&show_icons=true">
@@ -42,4 +42,4 @@ I am currently continuing my studies at the Financial University at the Faculty 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BernikovaLera&theme=chartreuse-dark&show_icons=true">
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernikovaLera&theme=chartreuse-dark&show_icons=true" />
 </a>
-</div> -->
+</div>
