@@ -16,7 +16,7 @@ I am currently continuing my studies at the Financial University at the Faculty 
       <a><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
       
 <h3>🧰 Frameworks and Libraries</h3>
-
+ 
   <p>
       <a><img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"></a>
       <a><img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></a>
