@@ -5,7 +5,7 @@ I am currently continuing my studies at the Financial University at the Faculty 
 
 ## 📫 Reach me by email 📧: 
 <bernikova.lera@gmail.com>
-
+ 
 <summary><h2>🛠️ Languages and Tools</h2></summary>
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <p>
