@@ -3,8 +3,6 @@
 ## 🎓 I graduated from the College of Computer Science and Programming of the Financial University under the Government of the Russian Federation
 I am currently continuing my studies at the Financial University at the Faculty of Applied Informatics.
 
-## 📫 Reach me by email 📧: 
-<bernikova.lera@gmail.com>
 <summary><h2>🛠️ Languages and Tools</h2></summary>
 <h3>👨‍💻 Programming and Markup Languages</h3>
  <p>
