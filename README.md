@@ -1,9 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Lera!
 
-## 🎓 I graduated from the College of Computer Science and Programming of the Financial University under the Government of the Russian Federation
-I am currently continuing my studies at the Financial University at the Faculty of Applied Informatics.
-
-<summary><h2>🛠️ Languages and Tools</h2></summary>
+## 🧑‍💻 С#/.NET Developer Middle 
 
 <h3>📋 Languages</h3>
  <p>
